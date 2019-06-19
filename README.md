@@ -31,7 +31,7 @@ $ git push -u origin pr2
  
 ## Задание 12
 
-
+ 
 ![alt text](https://pp.userapi.com/c856128/v856128982/7127e/_vxQJCDeKKw.jpg)
 
 ## Использованые ресурсы
