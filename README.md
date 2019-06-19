@@ -28,7 +28,7 @@ $ git push -u origin pr2
 ## Задание 10
 
 ![alt text](https://pp.userapi.com/c856128/v856128982/71277/Yq8c2tmmhTc.jpg)
-
+ 
 ## Задание 12
 
 
